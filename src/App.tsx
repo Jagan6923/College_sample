@@ -18,11 +18,11 @@ function HomePage() {
             </div>
           </div>
           <div className="flex items-center space-x-6">
-            <a href="#" className="flex items-center space-x-2 hover:text-blue-200">
+            <a href="https://ssmiet.securosphere.in/login" className="flex items-center space-x-2 hover:text-blue-200">
               <LogIn className="h-5 w-5" />
               <span>Login</span>
             </a>
-            <a href="#" className="flex items-center space-x-2 bg-blue-700 px-4 py-2 rounded-lg hover:bg-blue-600">
+            <a href="https://ssmiet.securosphere.in/register" className="flex items-center space-x-2 bg-blue-700 px-4 py-2 rounded-lg hover:bg-blue-600">
               <UserPlus className="h-5 w-5" />
               <span>Register</span>
             </a>
